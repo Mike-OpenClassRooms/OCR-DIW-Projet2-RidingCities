@@ -36,4 +36,3 @@ Pour contribuer à ce projet :
 3. Committer les changements (`git commit -m 'Ajout de quelque chose d'Incroyable'`).
 4. Push sur la branche (`git push origin feature/AmazingFeature`).
 5. Ouvrir une Pull Request.
-   `
