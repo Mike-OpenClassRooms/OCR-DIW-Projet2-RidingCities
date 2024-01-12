@@ -25,7 +25,6 @@ Démontrer la maîtrise du HTML et la capacité à travailler avec du code exist
 
 - Cloner le dépôt.
 - Ouvrir le fichier `index.html` dans un navigateur web.
-  `
 
 #### **Contribution :**
 
