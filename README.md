@@ -23,8 +23,6 @@ Démontrer la maîtrise du HTML et la capacité à travailler avec du code exist
 
 #### **Installation :**
 
-`
-
 - Cloner le dépôt.
 - Ouvrir le fichier `index.html` dans un navigateur web.
   `
@@ -32,7 +30,6 @@ Démontrer la maîtrise du HTML et la capacité à travailler avec du code exist
 #### **Contribution :**
 
 Pour contribuer à ce projet :
-`
 
 1. Forker le projet.
 2. Créer une branche (`git checkout -b feature/AmazingFeature`).
